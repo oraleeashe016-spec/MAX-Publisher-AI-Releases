@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "product": "MAX Publisher AI",
+  "channel": "stable",
+  "status": "not_configured",
+  "latest_version": null,
+  "release_tag": null,
+  "release_url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases",
+  "published_at": null,
+  "assets": [],
+  "message": "No stable release has been published to this channel yet."
+}
