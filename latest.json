@@ -3,25 +3,25 @@
   "product": "MAX Publisher AI",
   "channel": "stable",
   "status": "available",
-  "latest_version": "6.3.8",
-  "release_tag": "v6.3.8",
-  "release_url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/tag/v6.3.8",
-  "published_at": "2026-11-19T12:24:39Z",
+  "latest_version": "6.3.9",
+  "release_tag": "v6.3.9",
+  "release_url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/tag/v6.3.9",
+  "published_at": "2026-11-19T17:43:40Z",
   "assets": [
     {
       "role": "windows_zip",
-      "name": "MAX_Publisher_AI_v6.3.8_Windows.zip",
-      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.8/MAX_Publisher_AI_v6.3.8_Windows.zip"
+      "name": "MAX_Publisher_AI_v6.3.9_Windows.zip",
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.9/MAX_Publisher_AI_v6.3.9_Windows.zip"
     },
     {
       "role": "sha256",
       "name": "SHA256SUMS.txt",
-      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.8/SHA256SUMS.txt"
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.9/SHA256SUMS.txt"
     },
     {
       "role": "signature_ed25519",
       "name": "SHA256SUMS.txt.sig",
-      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.8/SHA256SUMS.txt.sig"
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/v6.3.9/SHA256SUMS.txt.sig"
     }
   ],
   "signature_algorithm": "Ed25519",
