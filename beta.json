@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "product": "MAX Publisher AI",
+  "channel": "beta",
+  "status": "available",
+  "latest_version": "6.3.10",
+  "release_tag": "beta-v6.3.10",
+  "release_url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/tag/beta-v6.3.10",
+  "published_at": "2026-11-20T07:41:47Z",
+  "assets": [
+    {
+      "role": "windows_zip",
+      "name": "MAX_Publisher_AI_v6.3.10_Windows.zip",
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/beta-v6.3.10/MAX_Publisher_AI_v6.3.10_Windows.zip"
+    },
+    {
+      "role": "sha256",
+      "name": "SHA256SUMS.txt",
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/beta-v6.3.10/SHA256SUMS.txt"
+    },
+    {
+      "role": "signature_ed25519",
+      "name": "SHA256SUMS.txt.sig",
+      "url": "https://github.com/oraleeashe016-spec/MAX-Publisher-AI-Releases/releases/download/beta-v6.3.10/SHA256SUMS.txt.sig"
+    }
+  ],
+  "signature_algorithm": "Ed25519",
+  "public_key_hex": "24a39591a1ed386503fec5c9d8303c6018aa0046395abba618595cd963f7ab5c"
+}
